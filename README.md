@@ -13,7 +13,7 @@ Scaler is a Flutter application. The app is architected following **Clean Archit
 ## 🖼️ Screenshots
 
 ### Job Listings
-![Job Listings](assets/images/job_listings.png)
+<img src="assets/images/job_listings.png" alt="Job Listings" width="600"/>
 
 ### Job Details
 ![Job Details](assets/images/job_details.png)
