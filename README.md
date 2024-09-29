@@ -45,8 +45,8 @@ To run the Scaler app locally, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/scaler.git
-   cd scaler
+   git clone https://github.com/UsmanAfzal8/scalers_app_challenge.git
+   cd scalers_app_challenge
    ```
 
 2. **Install Dependencies**
